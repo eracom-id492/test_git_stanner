@@ -4,13 +4,18 @@ section {
   display: flex;
   flex-direction: row;
 	background: beige;
-	border: 3px dotted orange;
 	margin-bottom: 2em;
 	height: 100px;
 	width: 650px;
 }
 section > * {
-	width: 500px;
+	width: 450px;
+
+}
+.third{
+  width: 568px;
+
+
 }
 
 /* Decoration */
